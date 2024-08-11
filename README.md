@@ -5,3 +5,4 @@ Este repositorio contiene las tareas y proyectos realizados durante el curso de 
 ![Register](so24pEvidencias/REGISTER.png)
 
 ## 2. GTK
+![Register](so24pEvidencias/GTK.png)
